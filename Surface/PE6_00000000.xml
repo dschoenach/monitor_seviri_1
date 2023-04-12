@@ -13,10 +13,10 @@
  <NAME>x411</NAME>
  <NUM>         177 </NUM>
  <MEAN>   1.03534400     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.910370231     </BIAS>
  <RMSE>  0.821649492     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10015 </ID>
@@ -37,10 +37,10 @@
  <NAME>x411</NAME>
  <NUM>         176 </NUM>
  <MEAN>   1.03886664     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.21609771     </BIAS>
  <RMSE>  0.745883644     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10020 </ID>
@@ -61,10 +61,10 @@
  <NAME>x411</NAME>
  <NUM>         130 </NUM>
  <MEAN>   1.00980508     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.52442610     </BIAS>
  <RMSE>  0.667495310     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10035 </ID>
@@ -85,10 +85,10 @@
  <NAME>x411</NAME>
  <NUM>         114 </NUM>
  <MEAN>  0.355971456     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.495854318     </BIAS>
  <RMSE>  0.826881826     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10055 </ID>
@@ -109,10 +109,10 @@
  <NAME>x411</NAME>
  <NUM>          98 </NUM>
  <MEAN>  0.788131535     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.686303377     </BIAS>
  <RMSE>  0.892909169     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10147 </ID>
@@ -133,10 +133,10 @@
  <NAME>x411</NAME>
  <NUM>         146 </NUM>
  <MEAN>  0.498176932     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.976897836     </BIAS>
  <RMSE>  0.816043437     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10162 </ID>
@@ -157,10 +157,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.280163437     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.580426395     </BIAS>
  <RMSE>  0.794526398     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10184 </ID>
@@ -181,10 +181,10 @@
  <NAME>x411</NAME>
  <NUM>         162 </NUM>
  <MEAN>  0.774916828     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.660779357     </BIAS>
  <RMSE>  0.915893555     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10200 </ID>
@@ -205,10 +205,10 @@
  <NAME>x411</NAME>
  <NUM>         154 </NUM>
  <MEAN>  0.692294002     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.755114675     </BIAS>
  <RMSE>  0.832192361     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10224 </ID>
@@ -229,10 +229,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.426506042     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.558711410     </BIAS>
  <RMSE>  0.848552287     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10338 </ID>
@@ -253,10 +253,10 @@
  <NAME>x411</NAME>
  <NUM>         157 </NUM>
  <MEAN>  0.433302343     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.565134287     </BIAS>
  <RMSE>  0.812999606     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10393 </ID>
@@ -277,10 +277,10 @@
  <NAME>x411</NAME>
  <NUM>         143 </NUM>
  <MEAN>  0.342504263     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.40498734     </BIAS>
  <RMSE>  0.232506767     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10400 </ID>
@@ -301,10 +301,10 @@
  <NAME>x411</NAME>
  <NUM>         120 </NUM>
  <MEAN>  0.877615631     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.35440648     </BIAS>
  <RMSE>  0.522550464     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10046 </ID>
@@ -325,10 +325,10 @@
  <NAME>x411</NAME>
  <NUM>         145 </NUM>
  <MEAN>  0.254613936     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.404489100     </BIAS>
  <RMSE>  0.905864358     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       10091 </ID>
@@ -349,10 +349,10 @@
  <NAME>x411</NAME>
  <NUM>          97 </NUM>
  <MEAN>  0.616766810     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.728824377     </BIAS>
  <RMSE>  0.820317388     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10113 </ID>
@@ -373,10 +373,10 @@
  <NAME>x411</NAME>
  <NUM>         137 </NUM>
  <MEAN>  0.958607137     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.05856013     </BIAS>
  <RMSE>  0.736097038     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10131 </ID>
@@ -397,10 +397,10 @@
  <NAME>x411</NAME>
  <NUM>         167 </NUM>
  <MEAN>  0.283243448     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.512252450     </BIAS>
  <RMSE>  0.776287258     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       10170 </ID>
@@ -421,10 +421,10 @@
  <NAME>x411</NAME>
  <NUM>         133 </NUM>
  <MEAN>  0.385093600     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.777735829     </BIAS>
  <RMSE>  0.679915667     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10253 </ID>
@@ -445,10 +445,10 @@
  <NAME>x411</NAME>
  <NUM>         130 </NUM>
  <MEAN>  0.415416539     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.705816150     </BIAS>
  <RMSE>  0.776122868     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10264 </ID>
@@ -469,10 +469,10 @@
  <NAME>x411</NAME>
  <NUM>         131 </NUM>
  <MEAN>  0.268089563     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.427463025     </BIAS>
  <RMSE>  0.840618610     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       10268 </ID>
@@ -493,10 +493,10 @@
  <NAME>x411</NAME>
  <NUM>         145 </NUM>
  <MEAN>  0.292918861     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.679127276     </BIAS>
  <RMSE>  0.866751373     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10291 </ID>
@@ -517,10 +517,10 @@
  <NAME>x411</NAME>
  <NUM>         157 </NUM>
  <MEAN>  0.581674159     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.34989274     </BIAS>
  <RMSE>  0.685972750     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10315 </ID>
@@ -541,10 +541,10 @@
  <NAME>x411</NAME>
  <NUM>         161 </NUM>
  <MEAN>  0.459629864     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.653803766     </BIAS>
  <RMSE>  0.851992071     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       10379 </ID>
@@ -565,10 +565,10 @@
  <NAME>x411</NAME>
  <NUM>         130 </NUM>
  <MEAN>  0.619054556     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.796629786     </BIAS>
  <RMSE>  0.849474728     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10384 </ID>
@@ -589,10 +589,10 @@
  <NAME>x411</NAME>
  <NUM>         169 </NUM>
  <MEAN>  0.659851253     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.50685167     </BIAS>
  <RMSE>  0.697471142     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10410 </ID>
@@ -613,10 +613,10 @@
  <NAME>x411</NAME>
  <NUM>         152 </NUM>
  <MEAN>  0.882551789     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.52334452     </BIAS>
  <RMSE>  0.735629320     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       10430 </ID>
@@ -637,10 +637,10 @@
  <NAME>x411</NAME>
  <NUM>          80 </NUM>
  <MEAN>   4.27238226     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   2.34348011     </BIAS>
  <RMSE>  0.912895143     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10453 </ID>
@@ -661,10 +661,10 @@
  <NAME>x411</NAME>
  <NUM>         163 </NUM>
  <MEAN>  0.233980134     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.18487906     </BIAS>
  <RMSE>  0.350870937     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10496 </ID>
@@ -685,10 +685,10 @@
  <NAME>x411</NAME>
  <NUM>         185 </NUM>
  <MEAN>  0.874858737     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.925580204     </BIAS>
  <RMSE>  0.866482973     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10022 </ID>
@@ -709,10 +709,10 @@
  <NAME>x411</NAME>
  <NUM>         175 </NUM>
  <MEAN>  0.808490098     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.08029425     </BIAS>
  <RMSE>  0.791888475     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10028 </ID>
@@ -733,10 +733,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.562690139     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.694864035     </BIAS>
  <RMSE>  0.808799922     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10042 </ID>
@@ -757,10 +757,10 @@
  <NAME>x411</NAME>
  <NUM>         159 </NUM>
  <MEAN>  0.337190241     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.630299509     </BIAS>
  <RMSE>  0.832425833     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10093 </ID>
@@ -781,10 +781,10 @@
  <NAME>x411</NAME>
  <NUM>         151 </NUM>
  <MEAN>  0.190547660     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.446519345     </BIAS>
  <RMSE>  0.807185888     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10097 </ID>
@@ -805,10 +805,10 @@
  <NAME>x411</NAME>
  <NUM>         134 </NUM>
  <MEAN>  0.643997669     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.681703448     </BIAS>
  <RMSE>  0.859586358     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10129 </ID>
@@ -829,10 +829,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.866953254     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.878499568     </BIAS>
  <RMSE>  0.872547030     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10130 </ID>
@@ -853,10 +853,10 @@
  <NAME>x411</NAME>
  <NUM>         152 </NUM>
  <MEAN>  0.659997165     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.575784922     </BIAS>
  <RMSE>  0.923276424     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10139 </ID>
@@ -877,10 +877,10 @@
  <NAME>x411</NAME>
  <NUM>         126 </NUM>
  <MEAN>  0.836717665     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.11419964     </BIAS>
  <RMSE>  0.614813626     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10142 </ID>
@@ -901,10 +901,10 @@
  <NAME>x411</NAME>
  <NUM>         143 </NUM>
  <MEAN>  0.678109705     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.770281196     </BIAS>
  <RMSE>  0.848833740     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10146 </ID>
@@ -925,10 +925,10 @@
  <NAME>x411</NAME>
  <NUM>         127 </NUM>
  <MEAN>  0.609667480     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.440025747     </BIAS>
  <RMSE>  0.939334393     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10150 </ID>
@@ -949,10 +949,10 @@
  <NAME>x411</NAME>
  <NUM>         112 </NUM>
  <MEAN>  0.596042156     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.901228309     </BIAS>
  <RMSE>  0.802376091     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10152 </ID>
@@ -973,10 +973,10 @@
  <NAME>x411</NAME>
  <NUM>         114 </NUM>
  <MEAN>  0.487935811     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.875770509     </BIAS>
  <RMSE>  0.709380746     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10156 </ID>
@@ -997,10 +997,10 @@
  <NAME>x411</NAME>
  <NUM>         143 </NUM>
  <MEAN>  0.276316643     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.938707829     </BIAS>
  <RMSE>  0.514898360     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10161 </ID>
@@ -1021,10 +1021,10 @@
  <NAME>x411</NAME>
  <NUM>         149 </NUM>
  <MEAN>  0.215793326     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.468777001     </BIAS>
  <RMSE>  0.767596960     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10168 </ID>
@@ -1045,10 +1045,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.329524308     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.701845706     </BIAS>
  <RMSE>  0.694723427     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10180 </ID>
@@ -1069,10 +1069,10 @@
  <NAME>x411</NAME>
  <NUM>         190 </NUM>
  <MEAN>  0.269347101     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.577848077     </BIAS>
  <RMSE>  0.769787908     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10193 </ID>
@@ -1093,10 +1093,10 @@
  <NAME>x411</NAME>
  <NUM>         144 </NUM>
  <MEAN>  0.668958485     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.723617375     </BIAS>
  <RMSE>  0.872814834     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10210 </ID>
@@ -1117,10 +1117,10 @@
  <NAME>x411</NAME>
  <NUM>         145 </NUM>
  <MEAN>  0.902970493     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.20839810     </BIAS>
  <RMSE>  0.808845937     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10235 </ID>
@@ -1141,10 +1141,10 @@
  <NAME>x411</NAME>
  <NUM>         116 </NUM>
  <MEAN>  0.613457322     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.717678905     </BIAS>
  <RMSE>  0.838433921     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10249 </ID>
@@ -1165,10 +1165,10 @@
  <NAME>x411</NAME>
  <NUM>         161 </NUM>
  <MEAN>  0.291601270     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.778718412     </BIAS>
  <RMSE>  0.757516265     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10261 </ID>
@@ -1189,10 +1189,10 @@
  <NAME>x411</NAME>
  <NUM>         130 </NUM>
  <MEAN>  0.382563323     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.604931355     </BIAS>
  <RMSE>  0.845743775     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       10267 </ID>
@@ -1213,10 +1213,10 @@
  <NAME>x411</NAME>
  <NUM>         148 </NUM>
  <MEAN>  0.341176301     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.611994147     </BIAS>
  <RMSE>  0.805965543     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10281 </ID>
@@ -1237,10 +1237,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.307821423     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.474727929     </BIAS>
  <RMSE>  0.829614222     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10282 </ID>
@@ -1261,10 +1261,10 @@
  <NAME>x411</NAME>
  <NUM>         122 </NUM>
  <MEAN>  0.239179552     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.468988031     </BIAS>
  <RMSE>  0.817493558     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10289 </ID>
@@ -1285,10 +1285,10 @@
  <NAME>x411</NAME>
  <NUM>         172 </NUM>
  <MEAN>  0.742911875     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.08019125     </BIAS>
  <RMSE>  0.817586064     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10309 </ID>
@@ -1309,10 +1309,10 @@
  <NAME>x411</NAME>
  <NUM>         176 </NUM>
  <MEAN>  0.711654186     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.816634417     </BIAS>
  <RMSE>  0.834699929     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10312 </ID>
@@ -1333,10 +1333,10 @@
  <NAME>x411</NAME>
  <NUM>         150 </NUM>
  <MEAN>  0.581215143     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.943745613     </BIAS>
  <RMSE>  0.782780588     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10321 </ID>
@@ -1357,10 +1357,10 @@
  <NAME>x411</NAME>
  <NUM>         157 </NUM>
  <MEAN>  0.711378038     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.821216822     </BIAS>
  <RMSE>  0.915339053     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10325 </ID>
@@ -1381,10 +1381,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.440435767     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.633562565     </BIAS>
  <RMSE>  0.867419124     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10348 </ID>
@@ -1405,10 +1405,10 @@
  <NAME>x411</NAME>
  <NUM>         164 </NUM>
  <MEAN>  0.404715300     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.518396497     </BIAS>
  <RMSE>  0.816835880     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10359 </ID>
@@ -1429,10 +1429,10 @@
  <NAME>x411</NAME>
  <NUM>         159 </NUM>
  <MEAN>  0.284356475     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.389219880     </BIAS>
  <RMSE>  0.876436353     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10365 </ID>
@@ -1453,10 +1453,10 @@
  <NAME>x411</NAME>
  <NUM>         140 </NUM>
  <MEAN>  0.755608022     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.864106297     </BIAS>
  <RMSE>  0.846084297     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10368 </ID>
@@ -1477,10 +1477,10 @@
  <NAME>x411</NAME>
  <NUM>         147 </NUM>
  <MEAN>  0.329838336     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.403988868     </BIAS>
  <RMSE>  0.791994870     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10376 </ID>
@@ -1501,10 +1501,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.386565924     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.530498326     </BIAS>
  <RMSE>  0.833721161     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10385 </ID>
@@ -1525,10 +1525,10 @@
  <NAME>x411</NAME>
  <NUM>         188 </NUM>
  <MEAN>  0.181068331     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.478977472     </BIAS>
  <RMSE>  0.525058866     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10396 </ID>
@@ -1549,10 +1549,10 @@
  <NAME>x411</NAME>
  <NUM>         149 </NUM>
  <MEAN>  0.867788970     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.00377166     </BIAS>
  <RMSE>  0.906465292     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10424 </ID>
@@ -1573,10 +1573,10 @@
  <NAME>x411</NAME>
  <NUM>         139 </NUM>
  <MEAN>  0.794004679     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.30527556     </BIAS>
  <RMSE>  0.809672654     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10433 </ID>
@@ -1597,10 +1597,10 @@
  <NAME>x411</NAME>
  <NUM>         146 </NUM>
  <MEAN>  0.736709833     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.61125553     </BIAS>
  <RMSE>  0.681483805     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10435 </ID>
@@ -1621,10 +1621,10 @@
  <NAME>x411</NAME>
  <NUM>         143 </NUM>
  <MEAN>  0.721361816     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.09599280     </BIAS>
  <RMSE>  0.709968090     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10442 </ID>
@@ -1645,10 +1645,10 @@
  <NAME>x411</NAME>
  <NUM>         157 </NUM>
  <MEAN>  0.465668410     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.679049253     </BIAS>
  <RMSE>  0.687888026     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10444 </ID>
@@ -1669,10 +1669,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>   1.79420853     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.31215990     </BIAS>
  <RMSE>  0.918555200     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10452 </ID>
@@ -1693,10 +1693,10 @@
  <NAME>x411</NAME>
  <NUM>         142 </NUM>
  <MEAN>   1.31076992     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.34540439     </BIAS>
  <RMSE>  0.834725320     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10454 </ID>
@@ -1717,10 +1717,10 @@
  <NAME>x411</NAME>
  <NUM>         115 </NUM>
  <MEAN>  0.884268701     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.47336709     </BIAS>
  <RMSE>  0.700700700     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       10458 </ID>
@@ -1741,10 +1741,10 @@
  <NAME>x411</NAME>
  <NUM>         139 </NUM>
  <MEAN>  0.545798481     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.819952488     </BIAS>
  <RMSE>  0.746759892     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       10474 </ID>
@@ -1765,10 +1765,10 @@
  <NAME>x411</NAME>
  <NUM>         133 </NUM>
  <MEAN>  0.422731698     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.17405963     </BIAS>
  <RMSE>  0.673682272     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       10490 </ID>
@@ -1789,10 +1789,10 @@
  <NAME>x411</NAME>
  <NUM>          33 </NUM>
  <MEAN>  0.269142449     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.876109302     </BIAS>
  <RMSE>  0.703403413     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        2590 </ID>
@@ -1813,10 +1813,10 @@
  <NAME>x411</NAME>
  <NUM>          96 </NUM>
  <MEAN>  0.292575359     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.409920633     </BIAS>
  <RMSE>  0.889398098     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2544 </ID>
@@ -1837,10 +1837,10 @@
  <NAME>x411</NAME>
  <NUM>         126 </NUM>
  <MEAN>  0.431909204     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.693046868     </BIAS>
  <RMSE>  0.789328873     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        2141 </ID>
@@ -1861,10 +1861,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.622781038     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.09947491     </BIAS>
  <RMSE>  0.663483858     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        2556 </ID>
@@ -1885,10 +1885,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.147610858     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.267497480     </BIAS>
  <RMSE>  0.670182049     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        2443 </ID>
@@ -1909,10 +1909,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.413490385     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.571318030     </BIAS>
  <RMSE>  0.911460102     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        2664 </ID>
@@ -1933,10 +1933,10 @@
  <NAME>x411</NAME>
  <NUM>         108 </NUM>
  <MEAN>  0.139082253     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.193845317     </BIAS>
  <RMSE>  0.936412156     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        2562 </ID>
@@ -1957,10 +1957,10 @@
  <NAME>x411</NAME>
  <NUM>         105 </NUM>
  <MEAN>  0.473246843     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.620464742     </BIAS>
  <RMSE>  0.797136247     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        2520 </ID>
@@ -1981,10 +1981,10 @@
  <NAME>x411</NAME>
  <NUM>         121 </NUM>
  <MEAN>  0.172960624     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.485664845     </BIAS>
  <RMSE>  0.536850393     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2458 </ID>
@@ -2005,10 +2005,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.208506063     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.763272107     </BIAS>
  <RMSE>  0.499220580     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        2667 </ID>
@@ -2029,10 +2029,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.573861778     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.850137889     </BIAS>
  <RMSE>  0.815898597     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2629 </ID>
@@ -2053,10 +2053,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.389694721     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.601023138     </BIAS>
  <RMSE>  0.807792246     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        2661 </ID>
@@ -2077,10 +2077,10 @@
  <NAME>x411</NAME>
  <NUM>         105 </NUM>
  <MEAN>  0.570882618     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.714137137     </BIAS>
  <RMSE>  0.900851071     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        2171 </ID>
@@ -2101,10 +2101,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.150568083     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.396511346     </BIAS>
  <RMSE>  0.454666942     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        2489 </ID>
@@ -2125,10 +2125,10 @@
  <NAME>x411</NAME>
  <NUM>         122 </NUM>
  <MEAN>  0.490030378     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.369921923     </BIAS>
  <RMSE>  0.943809211     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        2154 </ID>
@@ -2149,10 +2149,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.637133241     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.667744696     </BIAS>
  <RMSE>  0.903181195     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        2186 </ID>
@@ -2173,10 +2173,10 @@
  <NAME>x411</NAME>
  <NUM>         125 </NUM>
  <MEAN>  0.216400191     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.245982900     </BIAS>
  <RMSE>  0.844546616     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        2561 </ID>
@@ -2197,10 +2197,10 @@
  <NAME>x411</NAME>
  <NUM>         133 </NUM>
  <MEAN>  0.457768559     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.541268408     </BIAS>
  <RMSE>  0.857787192     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2151 </ID>
@@ -2221,10 +2221,10 @@
  <NAME>x411</NAME>
  <NUM>          16 </NUM>
  <MEAN>   1.11192325E-03 </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   2.02128408E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        7002 </ID>
@@ -2245,10 +2245,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.915409327     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.36952424     </BIAS>
  <RMSE>  0.641539514     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        3005 </ID>
@@ -2269,10 +2269,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.893742740     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   2.71381831     </BIAS>
  <RMSE>  0.440047562     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        3017 </ID>
@@ -2293,10 +2293,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.205204159     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.755774736     </BIAS>
  <RMSE>  0.693803728     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        3091 </ID>
@@ -2317,10 +2317,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.129165113     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.457400501     </BIAS>
  <RMSE>  0.509937465     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        3292 </ID>
@@ -2341,10 +2341,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>   9.50557739E-02 </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.286036491     </BIAS>
  <RMSE>  0.613817394     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        3482 </ID>
@@ -2365,10 +2365,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.110616490     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.466672182     </BIAS>
  <RMSE>  0.623446167     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        3590 </ID>
@@ -2389,10 +2389,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.642503142     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.980222762     </BIAS>
  <RMSE>  0.813870907     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6260 </ID>
@@ -2413,10 +2413,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.764736831     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.00216019     </BIAS>
  <RMSE>  0.809336960     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6270 </ID>
@@ -2437,10 +2437,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.606740952     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.03613210     </BIAS>
  <RMSE>  0.823802769     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6290 </ID>
@@ -2461,10 +2461,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.631791711     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.04447854     </BIAS>
  <RMSE>  0.734898865     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6235 </ID>
@@ -2485,10 +2485,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.667634487     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.56362534     </BIAS>
  <RMSE>  0.696325302     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6240 </ID>
@@ -2509,10 +2509,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.612248778     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.901418328     </BIAS>
  <RMSE>  0.780395091     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6251 </ID>
@@ -2533,10 +2533,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.939898908     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.21237350     </BIAS>
  <RMSE>  0.804060519     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6269 </ID>
@@ -2557,10 +2557,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.710466504     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.753612995     </BIAS>
  <RMSE>  0.859883189     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6280 </ID>
@@ -2581,10 +2581,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.403285980     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.906386495     </BIAS>
  <RMSE>  0.734885156     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6310 </ID>
@@ -2605,10 +2605,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.605074942     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.33286881     </BIAS>
  <RMSE>  0.779894769     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6344 </ID>
@@ -2629,10 +2629,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.382446826     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.703780413     </BIAS>
  <RMSE>  0.753364742     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6370 </ID>
@@ -2653,10 +2653,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.659701645     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.61949897     </BIAS>
  <RMSE>  0.756868005     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6257 </ID>
@@ -2677,10 +2677,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.927799165     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.11654353     </BIAS>
  <RMSE>  0.838656068     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        6275 </ID>
@@ -2701,10 +2701,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.497241318     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.25602221     </BIAS>
  <RMSE>  0.830236971     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6330 </ID>
@@ -2725,10 +2725,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.430405080     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.07416773     </BIAS>
  <RMSE>  0.658532381     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6340 </ID>
@@ -2749,10 +2749,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.442627728     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.841901839     </BIAS>
  <RMSE>  0.769842505     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6350 </ID>
@@ -2773,10 +2773,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.431139290     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.718893290     </BIAS>
  <RMSE>  0.773715556     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6375 </ID>
@@ -2797,10 +2797,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.802250087     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.37444758     </BIAS>
  <RMSE>  0.669443071     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        6249 </ID>
@@ -2821,10 +2821,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.637261689     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.25078201     </BIAS>
  <RMSE>  0.737761080     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6267 </ID>
@@ -2845,10 +2845,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.826242983     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.07969832     </BIAS>
  <RMSE>  0.858602226     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6273 </ID>
@@ -2869,10 +2869,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.763059616     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.00444555     </BIAS>
  <RMSE>  0.814715624     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6277 </ID>
@@ -2893,10 +2893,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.687035859     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.19487548     </BIAS>
  <RMSE>  0.699876070     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6278 </ID>
@@ -2917,10 +2917,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.705181122     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.30819750     </BIAS>
  <RMSE>  0.668562114     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6279 </ID>
@@ -2941,10 +2941,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.596080005     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.745243728     </BIAS>
  <RMSE>  0.843741834     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6283 </ID>
@@ -2965,10 +2965,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.633446991     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.925872803     </BIAS>
  <RMSE>  0.704888463     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6286 </ID>
@@ -2989,10 +2989,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.362143695     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.658181131     </BIAS>
  <RMSE>  0.757998168     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        6319 </ID>
@@ -3013,10 +3013,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.450997323     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.967746139     </BIAS>
  <RMSE>  0.759074211     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6323 </ID>
@@ -3037,10 +3037,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.596215189     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.10188270     </BIAS>
  <RMSE>  0.767570257     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6348 </ID>
@@ -3061,10 +3061,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.545734704     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.06559408     </BIAS>
  <RMSE>  0.759643078     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        6356 </ID>
@@ -3085,10 +3085,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.349864691     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.979880393     </BIAS>
  <RMSE>  0.528386712     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6391 </ID>
@@ -3109,10 +3109,10 @@
  <NAME>x411</NAME>
  <NUM>         141 </NUM>
  <MEAN>  0.573766291     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.645517051     </BIAS>
  <RMSE>  0.875921309     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       10381 </ID>
@@ -3133,10 +3133,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.47169483     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.26522112     </BIAS>
  <RMSE>  0.528599977     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        3002 </ID>
@@ -3157,10 +3157,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.986971438     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.35396254     </BIAS>
  <RMSE>  0.844739556     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        3008 </ID>
@@ -3181,10 +3181,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.118783325     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.380748928     </BIAS>
  <RMSE>  0.555529773     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        3275 </ID>
@@ -3205,10 +3205,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.128337413     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.579438508     </BIAS>
  <RMSE>  0.274272919     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        3281 </ID>
@@ -3229,10 +3229,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.99621653E-02 </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.332184583     </BIAS>
  <RMSE>  0.126130566     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        3382 </ID>
@@ -3253,10 +3253,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.01574601E-02 </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.384509504     </BIAS>
  <RMSE>  0.100943610     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        3391 </ID>
@@ -3277,10 +3277,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   5.51712587E-02 </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.367039919     </BIAS>
  <RMSE>  0.558999181     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        3392 </ID>
@@ -3301,10 +3301,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   4.90472354E-02 </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.264858514     </BIAS>
  <RMSE>  0.429140866     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        3469 </ID>
@@ -3325,10 +3325,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.164524779     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.309650958     </BIAS>
  <RMSE>  0.781232834     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        3488 </ID>
@@ -3349,10 +3349,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   5.00856899E-02 </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.275717169     </BIAS>
  <RMSE>  0.582986951     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        3684 </ID>
@@ -3373,10 +3373,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.113773108     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.459367245     </BIAS>
  <RMSE>  0.788644850     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        3693 </ID>
@@ -3397,10 +3397,10 @@
  <NAME>x411</NAME>
  <NUM>         100 </NUM>
  <MEAN>  0.151716322     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.661356807     </BIAS>
  <RMSE>  0.946871936     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        3797 </ID>
@@ -3421,10 +3421,10 @@
  <NAME>x411</NAME>
  <NUM>         571 </NUM>
  <MEAN>   6.25318989E-06 </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.15594983     </BIAS>
  <RMSE>  0.313605487     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26509 </ID>
@@ -3445,10 +3445,10 @@
  <NAME>x411</NAME>
  <NUM>         549 </NUM>
  <MEAN>   7.77995319E-06 </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.33431637     </BIAS>
  <RMSE>   6.80202022E-02 </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       26518 </ID>
@@ -3469,10 +3469,10 @@
  <NAME>x411</NAME>
  <NUM>         536 </NUM>
  <MEAN>   4.68281542E-06 </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.888600111     </BIAS>
  <RMSE>  0.129930779     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       26524 </ID>
@@ -3493,10 +3493,10 @@
  <NAME>x411</NAME>
  <NUM>         538 </NUM>
  <MEAN>   6.67724362E-06 </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.00997758     </BIAS>
  <RMSE>  0.215083554     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26531 </ID>
@@ -3517,10 +3517,10 @@
  <NAME>x411</NAME>
  <NUM>         521 </NUM>
  <MEAN>   1.10838037E-05 </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.11662161     </BIAS>
  <RMSE>  0.114639580     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       26629 </ID>
@@ -3541,10 +3541,10 @@
  <NAME>x411</NAME>
  <NUM>         530 </NUM>
  <MEAN>   8.02516115E-06 </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.11322498     </BIAS>
  <RMSE>  0.189831614     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       26633 </ID>
@@ -3565,10 +3565,10 @@
  <NAME>x411</NAME>
  <NUM>         519 </NUM>
  <MEAN>   1.29073633E-05 </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.31412184     </BIAS>
  <RMSE>  0.347935051     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       26730 </ID>
@@ -3589,10 +3589,10 @@
  <NAME>x411</NAME>
  <NUM>         275 </NUM>
  <MEAN>  0.493853927     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.662089765     </BIAS>
  <RMSE>  0.832534909     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6030 </ID>
@@ -3613,10 +3613,10 @@
  <NAME>x411</NAME>
  <NUM>         269 </NUM>
  <MEAN>  0.711861491     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.855482280     </BIAS>
  <RMSE>  0.858877659     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        6060 </ID>
@@ -3637,10 +3637,10 @@
  <NAME>x411</NAME>
  <NUM>         273 </NUM>
  <MEAN>  0.667183101     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.24365497     </BIAS>
  <RMSE>  0.708219647     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        6070 </ID>
@@ -3661,10 +3661,10 @@
  <NAME>x411</NAME>
  <NUM>         204 </NUM>
  <MEAN>  0.313117981     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.907968521     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6080 </ID>
@@ -3685,10 +3685,10 @@
  <NAME>x411</NAME>
  <NUM>         252 </NUM>
  <MEAN>  0.366239518     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.628882289     </BIAS>
  <RMSE>  0.719137073     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6180 </ID>
@@ -3709,10 +3709,10 @@
  <NAME>x411</NAME>
  <NUM>         251 </NUM>
  <MEAN>  0.282087535     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.346543312     </BIAS>
  <RMSE>  0.956060469     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6193 </ID>
@@ -3733,10 +3733,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.811473072     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.981815517     </BIAS>
  <RMSE>  0.828354836     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6019 </ID>
@@ -3757,10 +3757,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.612729728     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.752427399     </BIAS>
  <RMSE>  0.860278010     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6031 </ID>
@@ -3781,10 +3781,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.827647448     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.06597281     </BIAS>
  <RMSE>  0.797621846     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6068 </ID>
@@ -3805,10 +3805,10 @@
  <NAME>x411</NAME>
  <NUM>         275 </NUM>
  <MEAN>  0.515173495     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.797429800     </BIAS>
  <RMSE>  0.662798822     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6079 </ID>
@@ -3829,10 +3829,10 @@
  <NAME>x411</NAME>
  <NUM>         299 </NUM>
  <MEAN>  0.839684963     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.14644492     </BIAS>
  <RMSE>  0.771465898     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6109 </ID>
@@ -3853,10 +3853,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.531957090     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.811773062     </BIAS>
  <RMSE>  0.736538053     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6119 </ID>
@@ -3877,10 +3877,10 @@
  <NAME>x411</NAME>
  <NUM>         221 </NUM>
  <MEAN>  0.429887682     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.659853756     </BIAS>
  <RMSE>  0.871126294     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6135 </ID>
@@ -3901,10 +3901,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.416995734     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.551386833     </BIAS>
  <RMSE>  0.816980779     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6138 </ID>
@@ -3925,10 +3925,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.368033558     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.617503703     </BIAS>
  <RMSE>  0.659566998     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6149 </ID>
@@ -3949,10 +3949,10 @@
  <NAME>x411</NAME>
  <NUM>         263 </NUM>
  <MEAN>  0.521508873     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.916755795     </BIAS>
  <RMSE>  0.654313385     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6159 </ID>
@@ -3973,10 +3973,10 @@
  <NAME>x411</NAME>
  <NUM>         263 </NUM>
  <MEAN>  0.418648481     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.805482507     </BIAS>
  <RMSE>  0.680550516     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6169 </ID>
@@ -3997,10 +3997,10 @@
  <NAME>x411</NAME>
  <NUM>         210 </NUM>
  <MEAN>  0.314314455     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.340346187     </BIAS>
  <RMSE>  0.930652320     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        6174 </ID>
@@ -4021,10 +4021,10 @@
  <NAME>x411</NAME>
  <NUM>         225 </NUM>
  <MEAN>  0.386977822     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.583036721     </BIAS>
  <RMSE>  0.865237832     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6188 </ID>
@@ -4045,10 +4045,10 @@
  <NAME>x411</NAME>
  <NUM>         252 </NUM>
  <MEAN>  0.490967900     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.661325634     </BIAS>
  <RMSE>  0.876798987     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6041 </ID>
@@ -4069,10 +4069,10 @@
  <NAME>x411</NAME>
  <NUM>         253 </NUM>
  <MEAN>  0.750059962     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.931010008     </BIAS>
  <RMSE>  0.847689569     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        6052 </ID>
@@ -4093,10 +4093,10 @@
  <NAME>x411</NAME>
  <NUM>         145 </NUM>
  <MEAN>  0.437899619     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.487118632     </BIAS>
  <RMSE>  0.936047077     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6058 </ID>
@@ -4117,10 +4117,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.742022216     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.24040878     </BIAS>
  <RMSE>  0.706410468     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6065 </ID>
@@ -4141,10 +4141,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.729632914     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.957247436     </BIAS>
  <RMSE>  0.798250079     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        6072 </ID>
@@ -4165,10 +4165,10 @@
  <NAME>x411</NAME>
  <NUM>         234 </NUM>
  <MEAN>  0.607264996     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.897679865     </BIAS>
  <RMSE>  0.856936395     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6074 </ID>
@@ -4189,10 +4189,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.970266223     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.04866517     </BIAS>
  <RMSE>  0.847345829     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6082 </ID>
@@ -4213,10 +4213,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.690532982     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.822156787     </BIAS>
  <RMSE>  0.840392590     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        6102 </ID>
@@ -4237,10 +4237,10 @@
  <NAME>x411</NAME>
  <NUM>         299 </NUM>
  <MEAN>  0.939089656     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.07088053     </BIAS>
  <RMSE>  0.831954360     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6104 </ID>
@@ -4261,10 +4261,10 @@
  <NAME>x411</NAME>
  <NUM>         255 </NUM>
  <MEAN>  0.874868631     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.21525335     </BIAS>
  <RMSE>  0.829154611     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6110 </ID>
@@ -4285,10 +4285,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.694837511     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.952727199     </BIAS>
  <RMSE>  0.782490253     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6126 </ID>
@@ -4309,10 +4309,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.395568997     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.533866704     </BIAS>
  <RMSE>  0.819887519     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6136 </ID>
@@ -4333,10 +4333,10 @@
  <NAME>x411</NAME>
  <NUM>         218 </NUM>
  <MEAN>  0.378257573     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.551502764     </BIAS>
  <RMSE>  0.830167413     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        6141 </ID>
@@ -4357,10 +4357,10 @@
  <NAME>x411</NAME>
  <NUM>         230 </NUM>
  <MEAN>  0.252715230     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.540077448     </BIAS>
  <RMSE>  0.752112687     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6147 </ID>
@@ -4381,10 +4381,10 @@
  <NAME>x411</NAME>
  <NUM>         256 </NUM>
  <MEAN>  0.393048793     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.658599555     </BIAS>
  <RMSE>  0.804454029     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6154 </ID>
@@ -4405,10 +4405,10 @@
  <NAME>x411</NAME>
  <NUM>         224 </NUM>
  <MEAN>  0.436897546     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.587664425     </BIAS>
  <RMSE>  0.805876851     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        6156 </ID>
@@ -4429,10 +4429,10 @@
  <NAME>x411</NAME>
  <NUM>         249 </NUM>
  <MEAN>  0.353806287     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.479196280     </BIAS>
  <RMSE>  0.863285720     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        6170 </ID>
@@ -4453,10 +4453,10 @@
  <NAME>x411</NAME>
  <NUM>         296 </NUM>
  <MEAN>  0.432557493     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.792871714     </BIAS>
  <RMSE>  0.754197598     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6197 </ID>
@@ -4477,10 +4477,10 @@
  <NAME>x411</NAME>
  <NUM>           6 </NUM>
  <MEAN>   1.30998334E-02 </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.27831381E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1459 </ID>
@@ -4501,10 +4501,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>   1.50726926     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.24654651     </BIAS>
  <RMSE>  0.791173220     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1227 </ID>
@@ -4525,10 +4525,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.707034647     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.02706289     </BIAS>
  <RMSE>  0.583994627     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1287 </ID>
@@ -4549,10 +4549,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.11666346     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   2.69796109     </BIAS>
  <RMSE>  0.737343132     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1221 </ID>
@@ -4573,10 +4573,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.49919569     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.90027606     </BIAS>
  <RMSE>  0.822028399     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1427 </ID>
@@ -4597,10 +4597,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>   1.60072935     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   2.90891337     </BIAS>
  <RMSE>  0.897128582     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1332 </ID>
@@ -4621,10 +4621,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.486481100     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.944501042     </BIAS>
  <RMSE>  0.844929099     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1486 </ID>
@@ -4645,10 +4645,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.310226560     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.31467557     </BIAS>
  <RMSE>  0.144699141     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1397 </ID>
@@ -4669,10 +4669,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.74126506     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.47413933     </BIAS>
  <RMSE>  0.855396509     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1281 </ID>
@@ -4693,10 +4693,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.01456988     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.21205568     </BIAS>
  <RMSE>  0.743259668     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1156 </ID>
@@ -4717,10 +4717,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.421057791     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.748961747     </BIAS>
  <RMSE>  0.813765287     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1484 </ID>
@@ -4741,10 +4741,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.361490309     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.504012704     </BIAS>
  <RMSE>  0.693554580     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1058 </ID>
@@ -4765,10 +4765,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.45343614     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.61724341     </BIAS>
  <RMSE>  0.654783905     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1107 </ID>
@@ -4789,10 +4789,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.449289292     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.701230705     </BIAS>
  <RMSE>  0.275399983     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1198 </ID>
@@ -4813,10 +4813,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.954061866     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.90063488     </BIAS>
  <RMSE>  0.723475695     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1241 </ID>
@@ -4837,10 +4837,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.60699034     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.99184847     </BIAS>
  <RMSE>  0.950879335     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1122 </ID>
@@ -4861,10 +4861,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.269199222     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.535774291     </BIAS>
  <RMSE>  0.695763350     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1384 </ID>
@@ -4885,10 +4885,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.837556303     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.06030774     </BIAS>
  <RMSE>  0.693187594     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1273 </ID>
@@ -4909,10 +4909,10 @@
  <NAME>x411</NAME>
  <NUM>          45 </NUM>
  <MEAN>   1.27536368     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.75567281     </BIAS>
  <RMSE>  0.605416775     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        6400 </ID>
@@ -4933,10 +4933,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.407689482     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.861379743     </BIAS>
  <RMSE>  0.604637206     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1488 </ID>
@@ -4957,10 +4957,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.513619542     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.587457836     </BIAS>
  <RMSE>  0.861731708     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1359 </ID>
@@ -4981,10 +4981,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.439726055     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.711108029     </BIAS>
  <RMSE>  0.711964250     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1037 </ID>
@@ -5005,10 +5005,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.696281374     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.761965692     </BIAS>
  <RMSE>  0.957041323     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1462 </ID>
@@ -5029,10 +5029,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.629298091     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.04058564     </BIAS>
  <RMSE>  0.893319964     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1476 </ID>
@@ -5053,10 +5053,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.931714237     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.40528941     </BIAS>
  <RMSE>  0.764453590     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1254 </ID>
@@ -5077,10 +5077,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.264392465     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.402442813     </BIAS>
  <RMSE>  0.681866407     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1265 </ID>
@@ -5101,10 +5101,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.48496509     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   2.59147120     </BIAS>
  <RMSE>  0.844358802     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1150 </ID>
@@ -5125,10 +5125,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.498526007     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.659994423     </BIAS>
  <RMSE>  0.470670432     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1098 </ID>
@@ -5149,10 +5149,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.89887190     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   2.93329120     </BIAS>
  <RMSE>  0.819754124     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1345 </ID>
@@ -5173,10 +5173,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.191949919     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.241997227     </BIAS>
  <RMSE>  0.906209588     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1373 </ID>
@@ -5197,10 +5197,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.14713383     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   2.69507194     </BIAS>
  <RMSE>  0.811697781     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1315 </ID>
@@ -5221,10 +5221,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.563848257     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.31433308     </BIAS>
  <RMSE>  0.824946702     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1494 </ID>
@@ -5245,10 +5245,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.915459991     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.08798921     </BIAS>
  <RMSE>  0.751842737     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1068 </ID>
@@ -5269,10 +5269,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.25725830     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   5.38244486     </BIAS>
  <RMSE>  -3.98611613E-02 </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1452 </ID>
@@ -5293,10 +5293,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.825623274     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.94617319     </BIAS>
  <RMSE>  0.659659624     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1253 </ID>
@@ -5317,10 +5317,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.51221251     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.20417941     </BIAS>
  <RMSE>  0.898124993     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1340 </ID>
@@ -5341,10 +5341,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.60440767     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.48506236     </BIAS>
  <RMSE>  0.786159813     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1115 </ID>
@@ -5365,10 +5365,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.893948734     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.48142087     </BIAS>
  <RMSE>  0.763435781     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1412 </ID>
@@ -5389,10 +5389,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.210510597     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.574145138     </BIAS>
  <RMSE>  0.246970356     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1049 </ID>
@@ -5413,10 +5413,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.952453732     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.06766558     </BIAS>
  <RMSE>  0.868768215     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1415 </ID>
@@ -5437,10 +5437,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.18278992     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.81183553     </BIAS>
  <RMSE>  0.787453830     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1430 </ID>
@@ -5461,10 +5461,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.913507402     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   2.18858194     </BIAS>
  <RMSE>  0.746769071     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1010 </ID>
@@ -5485,10 +5485,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.229714349     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.430144697     </BIAS>
  <RMSE>  0.766487002     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1378 </ID>
@@ -5509,10 +5509,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.19805527     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   2.18517995     </BIAS>
  <RMSE>  0.896235287     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1344 </ID>
@@ -5533,10 +5533,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   3.06339765     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.70348024     </BIAS>
  <RMSE>  0.890916169     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1327 </ID>
@@ -5557,10 +5557,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.748275638     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.39181733     </BIAS>
  <RMSE>  0.515241921     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1074 </ID>
@@ -5581,10 +5581,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.819133580     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   2.28046632     </BIAS>
  <RMSE>   8.43001604E-02 </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1052 </ID>
@@ -5605,10 +5605,10 @@
  <NAME>x411</NAME>
  <NUM>         116 </NUM>
  <MEAN>  0.516910791     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.467644393     </BIAS>
  <RMSE>  0.978754461     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1376 </ID>
@@ -5629,10 +5629,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>  0.717271388     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.20342803     </BIAS>
  <RMSE>  0.554091275     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1271 </ID>
@@ -5653,10 +5653,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.155079544     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.459470600     </BIAS>
  <RMSE>  0.319675148     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1386 </ID>
@@ -5677,10 +5677,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.68600845     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.17097235     </BIAS>
  <RMSE>  0.908777058     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1148 </ID>
@@ -5701,10 +5701,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.732598662     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.42529631     </BIAS>
  <RMSE>  0.835868359     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1481 </ID>
@@ -5725,10 +5725,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.447134137     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.492147148     </BIAS>
  <RMSE>  0.877827823     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1450 </ID>
@@ -5749,10 +5749,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.240540236     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.313455969     </BIAS>
  <RMSE>  0.949123681     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1471 </ID>
@@ -5773,10 +5773,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.298673302     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.276659161     </BIAS>
  <RMSE>  0.913919508     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1065 </ID>
@@ -5797,10 +5797,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.529907286     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.435811818     </BIAS>
  <RMSE>  0.978920341     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1480 </ID>
@@ -5821,10 +5821,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>   1.41519058     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.22867548     </BIAS>
  <RMSE>  0.855880558     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1293 </ID>
@@ -5845,10 +5845,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.23907733     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.20311940     </BIAS>
  <RMSE>  0.898304582     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1158 </ID>
@@ -5869,10 +5869,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.938098490     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.36424136     </BIAS>
  <RMSE>  0.765301883     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1434 </ID>
@@ -5893,10 +5893,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.24715495     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.50398183     </BIAS>
  <RMSE>  0.750370741     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1192 </ID>
@@ -5917,10 +5917,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.22961533     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.38494456     </BIAS>
  <RMSE>  0.946311593     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1449 </ID>
@@ -5941,10 +5941,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.456518263     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.591119111     </BIAS>
  <RMSE>  0.641113222     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1076 </ID>
@@ -5965,10 +5965,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.207544476     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.505740404     </BIAS>
  <RMSE>  0.544957578     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1392 </ID>
@@ -5989,10 +5989,10 @@
  <NAME>x411</NAME>
  <NUM>         129 </NUM>
  <MEAN>   2.14918947     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   2.78238583     </BIAS>
  <RMSE>  0.970529437     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1346 </ID>
@@ -6013,10 +6013,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.226100773     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.383728445     </BIAS>
  <RMSE>  0.781102717     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1469 </ID>
@@ -6037,10 +6037,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>   2.23269558     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.85098028     </BIAS>
  <RMSE>  0.908168852     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1133 </ID>
@@ -6061,10 +6061,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.301934540     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.416065007     </BIAS>
  <RMSE>  0.910170913     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1374 </ID>
@@ -6085,10 +6085,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.765049696     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.22495401     </BIAS>
  <RMSE>  0.726660430     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1257 </ID>
@@ -6109,10 +6109,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.663966656     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.914002717     </BIAS>
  <RMSE>  0.462263793     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1180 </ID>
@@ -6133,10 +6133,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>  0.271104753     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.358524799     </BIAS>
  <RMSE>  0.691798449     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1082 </ID>
@@ -6157,10 +6157,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.861668825     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.40856481     </BIAS>
  <RMSE>  0.426359951     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1352 </ID>
@@ -6181,10 +6181,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.950366557     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.23764157     </BIAS>
  <RMSE>  0.731150448     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1277 </ID>
@@ -6205,10 +6205,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.167681485     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.220647648     </BIAS>
  <RMSE>  0.942857862     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1367 </ID>
@@ -6229,10 +6229,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.84862697     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   2.04025531     </BIAS>
  <RMSE>  0.847611308     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1424 </ID>
@@ -6253,10 +6253,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.03956378     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   1.40911746     </BIAS>
  <RMSE>  0.763166308     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1416 </ID>
@@ -6277,10 +6277,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.08276880     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.37344372     </BIAS>
  <RMSE>  0.880447388     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1453 </ID>
@@ -6301,10 +6301,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.62898600     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.59681308     </BIAS>
  <RMSE>  0.828207433     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1361 </ID>
@@ -6325,10 +6325,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.158776596     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.438132346     </BIAS>
  <RMSE>  0.383423984     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1385 </ID>
@@ -6349,10 +6349,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.80194211     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.84319746     </BIAS>
  <RMSE>  0.921128869     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1135 </ID>
@@ -6373,10 +6373,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.91833723     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   3.02606535     </BIAS>
  <RMSE>  0.826695383     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1224 </ID>
@@ -6397,10 +6397,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.300044686     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.619789362     </BIAS>
  <RMSE>  0.632203400     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1233 </ID>
@@ -6421,10 +6421,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>   2.54276705     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.28924370     </BIAS>
  <RMSE>  0.811845183     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1425 </ID>
@@ -6445,10 +6445,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.465496898     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.831928670     </BIAS>
  <RMSE>  0.658333063     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1239 </ID>
@@ -6469,10 +6469,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.403298110     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.707636118     </BIAS>
  <RMSE>  0.916398942     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1470 </ID>
@@ -6493,10 +6493,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   3.82625771     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   3.28182840     </BIAS>
  <RMSE>  0.955086052     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1319 </ID>
@@ -6517,10 +6517,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.346098393     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.525060952     </BIAS>
  <RMSE>  0.746830046     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1365 </ID>
@@ -6541,10 +6541,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.23586214     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.22212279     </BIAS>
  <RMSE>  0.853162050     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1431 </ID>
@@ -6565,10 +6565,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>  0.988260686     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.20144773     </BIAS>
  <RMSE>  0.852906764     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1442 </ID>
@@ -6589,10 +6589,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.731598616     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.950957775     </BIAS>
  <RMSE>  0.888564408     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1355 </ID>
@@ -6613,10 +6613,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.10292137     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.21646333     </BIAS>
  <RMSE>  0.880248070     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1364 </ID>
@@ -6637,10 +6637,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.791390479     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.972010553     </BIAS>
  <RMSE>  0.849841774     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1441 </ID>
@@ -6661,10 +6661,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.245925531     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.628684819     </BIAS>
  <RMSE>  0.687029779     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1389 </ID>
@@ -6685,10 +6685,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.173113346     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.427432805     </BIAS>
  <RMSE>  0.605515599     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1387 </ID>
@@ -6709,10 +6709,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.84473157     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.84239960     </BIAS>
  <RMSE>  0.770777225     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1132 </ID>
@@ -6733,10 +6733,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.717514277     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.19489479     </BIAS>
  <RMSE>  0.751390755     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1245 </ID>
@@ -6757,10 +6757,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.56192362     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   2.41541433     </BIAS>
  <RMSE>  0.819096267     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1311 </ID>
@@ -6781,10 +6781,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.18424344     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.94718087     </BIAS>
  <RMSE>  0.858432770     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1237 </ID>
@@ -6805,10 +6805,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.41831148     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.47806895     </BIAS>
  <RMSE>  0.653307855     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1124 </ID>
@@ -6829,10 +6829,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.89807665     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.55421627     </BIAS>
  <RMSE>  0.906375766     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1417 </ID>
@@ -6853,10 +6853,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.50594187     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   2.36437535     </BIAS>
  <RMSE>  0.938702583     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1146 </ID>
@@ -6877,10 +6877,10 @@
  <NAME>x411</NAME>
  <NUM>         141 </NUM>
  <MEAN>   1.87701881     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   3.95126009     </BIAS>
  <RMSE>  0.855542541     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1321 </ID>
@@ -6901,10 +6901,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.97945333     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   3.39948440     </BIAS>
  <RMSE>  0.569608331     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1218 </ID>
@@ -6925,10 +6925,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.738506794     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   1.59431076     </BIAS>
  <RMSE>  0.561972976     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1270 </ID>
@@ -6949,10 +6949,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.710068583     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.856282711     </BIAS>
  <RMSE>  0.905217886     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1455 </ID>
@@ -6973,10 +6973,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.524688482     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.922952533     </BIAS>
  <RMSE>  0.692099392     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1490 </ID>
@@ -6997,10 +6997,10 @@
  <NAME>x411</NAME>
  <NUM>          16 </NUM>
  <MEAN>  0.360045791     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.633587539     </BIAS>
  <RMSE>  0.964639425     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1495 </ID>
@@ -7021,10 +7021,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.68836939     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.69854033     </BIAS>
  <RMSE>  0.935646832     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1308 </ID>
@@ -7045,10 +7045,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.211773485     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.413657576     </BIAS>
  <RMSE>  0.765262902     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1381 </ID>
@@ -7069,10 +7069,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.845327973     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.11053514     </BIAS>
  <RMSE>  0.836138546     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1444 </ID>
@@ -7093,10 +7093,10 @@
  <NAME>x411</NAME>
  <NUM>          87 </NUM>
  <MEAN>   2.07350516     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   5.22630930     </BIAS>
  <RMSE>  -6.40293285E-02 </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1326 </ID>
@@ -7117,10 +7117,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.30200732     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   2.18815494     </BIAS>
  <RMSE>  0.551667929     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1143 </ID>
@@ -7141,10 +7141,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.99933672     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.91840732     </BIAS>
  <RMSE>  0.844022810     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1291 </ID>
@@ -7165,10 +7165,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.52976608     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   3.82825780     </BIAS>
  <RMSE>  0.657758474     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1232 </ID>
@@ -7189,10 +7189,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.39714742     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   3.18313074     </BIAS>
  <RMSE>  0.721952736     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1220 </ID>
@@ -7213,10 +7213,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.18172562     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.60617030     </BIAS>
  <RMSE>  0.789386809     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1422 </ID>
@@ -7237,10 +7237,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.17985916     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   3.17806482     </BIAS>
  <RMSE>  0.886442721     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1338 </ID>
@@ -7261,10 +7261,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.982627094     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.03688812     </BIAS>
  <RMSE>  0.871444881     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1169 </ID>
@@ -7285,10 +7285,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.397301406     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.694158077     </BIAS>
  <RMSE>  0.662504315     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1492 </ID>
@@ -7309,10 +7309,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.534581006     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.810007572     </BIAS>
  <RMSE>  0.826616228     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1489 </ID>
@@ -7333,10 +7333,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.589701772     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.712912142     </BIAS>
  <RMSE>  0.937068999     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1477 </ID>
@@ -7357,10 +7357,10 @@
  <NAME>x411</NAME>
  <NUM>         104 </NUM>
  <MEAN>   2.91825008     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   3.97216678     </BIAS>
  <RMSE>  0.594845772     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1226 </ID>
@@ -7381,10 +7381,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.787944913     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.11520278     </BIAS>
  <RMSE>  0.440090209     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1023 </ID>
@@ -7405,10 +7405,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.200374976     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.248715401     </BIAS>
  <RMSE>  0.840591729     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1370 </ID>
@@ -7429,10 +7429,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.50298262     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   2.31475997     </BIAS>
  <RMSE>  0.723745942     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1337 </ID>
@@ -7453,10 +7453,10 @@
  <NAME>x411</NAME>
  <NUM>         129 </NUM>
  <MEAN>  0.815743089     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   1.10264933     </BIAS>
  <RMSE>  0.748461008     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1435 </ID>
@@ -7477,10 +7477,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.65918064     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   2.73546624     </BIAS>
  <RMSE>  0.769439876     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1329 </ID>
@@ -7501,10 +7501,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.248996526     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.333503515     </BIAS>
  <RMSE>  0.846705496     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1393 </ID>
@@ -7525,10 +7525,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.226846546     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.625601530     </BIAS>
  <RMSE>  0.628380775     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1250 </ID>
@@ -7549,10 +7549,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.05506539     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.39202416     </BIAS>
  <RMSE>  0.713695109     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1027 </ID>
@@ -7573,10 +7573,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.931697905     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.27440095     </BIAS>
  <RMSE>  0.861691236     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        1413 </ID>
@@ -7597,10 +7597,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.03855598     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.999155641     </BIAS>
  <RMSE>  0.911458135     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1411 </ID>
@@ -7621,10 +7621,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.609241903     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.683896422     </BIAS>
  <RMSE>  0.919435918     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1447 </ID>
@@ -7645,10 +7645,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>   1.05780506     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.47378111     </BIAS>
  <RMSE>  0.910687089     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1464 </ID>
@@ -7669,10 +7669,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.160081849     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.215148076     </BIAS>
  <RMSE>  0.806805134     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1371 </ID>
@@ -7693,10 +7693,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.33083439     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>   1.94842684     </BIAS>
  <RMSE>  0.869309068     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1342 </ID>
@@ -7717,10 +7717,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.289387256     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.372020543     </BIAS>
  <RMSE>  0.656282842     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1084 </ID>
@@ -7741,10 +7741,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.172456771     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.409236491     </BIAS>
  <RMSE>  0.719202280     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1382 </ID>
@@ -7765,10 +7765,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.46617842     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   2.11307788     </BIAS>
  <RMSE>  0.916149497     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1114 </ID>
@@ -7789,10 +7789,10 @@
  <NAME>x411</NAME>
  <NUM>         138 </NUM>
  <MEAN>   1.21309483     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   1.75471354     </BIAS>
  <RMSE>  0.891327858     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>        1403 </ID>
@@ -7813,10 +7813,10 @@
  <NAME>x411</NAME>
  <NUM>          72 </NUM>
  <MEAN>  0.423101395     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.947061658     </BIAS>
  <RMSE>  0.854512513     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>        6450 </ID>
@@ -7837,10 +7837,10 @@
  <NAME>x411</NAME>
  <NUM>         134 </NUM>
  <MEAN>   2.12730694     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>   2.18173480     </BIAS>
  <RMSE>  0.802946270     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1108 </ID>
@@ -7861,10 +7861,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.483222276     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.632279158     </BIAS>
  <RMSE>  0.907958746     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1485 </ID>
@@ -7885,10 +7885,10 @@
  <NAME>x411</NAME>
  <NUM>          72 </NUM>
  <MEAN>  0.411391526     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>   2.05635953     </BIAS>
  <RMSE>  0.942903817     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        6407 </ID>
@@ -7909,10 +7909,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.408128440     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.720364690     </BIAS>
  <RMSE>  0.280040324     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1045 </ID>
@@ -7933,10 +7933,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.15165246     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   2.08310151     </BIAS>
  <RMSE>  0.708358407     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1234 </ID>
@@ -7957,10 +7957,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   2.14204216     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   1.90903842     </BIAS>
  <RMSE>  0.838621020     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1117 </ID>
@@ -7981,10 +7981,10 @@
  <NAME>x411</NAME>
  <NUM>         129 </NUM>
  <MEAN>  0.237130895     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.500874043     </BIAS>
  <RMSE>  0.628706038     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12120 </ID>
@@ -8005,10 +8005,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.233772069     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.382918447     </BIAS>
  <RMSE>  0.815307796     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       12250 </ID>
@@ -8029,10 +8029,10 @@
  <NAME>x411</NAME>
  <NUM>          90 </NUM>
  <MEAN>  0.701285243     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.965495050     </BIAS>
  <RMSE>  0.761108696     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       12295 </ID>
@@ -8053,10 +8053,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.226280034     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.807669163     </BIAS>
  <RMSE>  0.605751753     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12330 </ID>
@@ -8077,10 +8077,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>  0.327858895     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.728715837     </BIAS>
  <RMSE>  0.472647935     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       12375 </ID>
@@ -8101,10 +8101,10 @@
  <NAME>x411</NAME>
  <NUM>         103 </NUM>
  <MEAN>  0.217388958     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.488920003     </BIAS>
  <RMSE>  0.768962920     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       12155 </ID>
@@ -8125,10 +8125,10 @@
  <NAME>x411</NAME>
  <NUM>         112 </NUM>
  <MEAN>  0.494904786     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.03441679     </BIAS>
  <RMSE>  0.795021176     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       12160 </ID>
@@ -8149,10 +8149,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.207550287     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.566211402     </BIAS>
  <RMSE>  0.597820640     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       12205 </ID>
@@ -8173,10 +8173,10 @@
  <NAME>x411</NAME>
  <NUM>         114 </NUM>
  <MEAN>  0.277449220     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.693641067     </BIAS>
  <RMSE>  0.693326175     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12465 </ID>
@@ -8197,10 +8197,10 @@
  <NAME>x411</NAME>
  <NUM>         130 </NUM>
  <MEAN>  0.146833912     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.603997529     </BIAS>
  <RMSE>  0.354725152     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       12105 </ID>
@@ -8221,10 +8221,10 @@
  <NAME>x411</NAME>
  <NUM>          90 </NUM>
  <MEAN>  0.680967927     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.790103614     </BIAS>
  <RMSE>  0.583578467     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12195 </ID>
@@ -8245,10 +8245,10 @@
  <NAME>x411</NAME>
  <NUM>         123 </NUM>
  <MEAN>  0.268297493     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.264014661     </BIAS>
  <RMSE>  0.924788594     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       12235 </ID>
@@ -8269,10 +8269,10 @@
  <NAME>x411</NAME>
  <NUM>          99 </NUM>
  <MEAN>  0.385162383     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.322588265     </BIAS>
  <RMSE>  0.915626645     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       12270 </ID>
@@ -8293,10 +8293,10 @@
  <NAME>x411</NAME>
  <NUM>         126 </NUM>
  <MEAN>  0.387886822     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.650204062     </BIAS>
  <RMSE>  0.589047611     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12280 </ID>
@@ -8317,10 +8317,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>  0.228503495     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.467302144     </BIAS>
  <RMSE>  0.628091514     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       12300 </ID>
@@ -8341,10 +8341,10 @@
  <NAME>x411</NAME>
  <NUM>         105 </NUM>
  <MEAN>  0.335904747     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.694534600     </BIAS>
  <RMSE>  0.658216238     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       12400 </ID>
@@ -8365,10 +8365,10 @@
  <NAME>x411</NAME>
  <NUM>         100 </NUM>
  <MEAN>  0.246549204     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.549858749     </BIAS>
  <RMSE>  0.662223995     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       12435 </ID>
@@ -8389,10 +8389,10 @@
  <NAME>x411</NAME>
  <NUM>          87 </NUM>
  <MEAN>   1.34914076     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.59457457     </BIAS>
  <RMSE>  0.803324819     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1465 </ID>
@@ -8413,10 +8413,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.79461908     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   2.39192653     </BIAS>
  <RMSE>  0.664059460     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>        1147 </ID>
@@ -8437,10 +8437,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.187266424     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.412357867     </BIAS>
  <RMSE>  0.835578322     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       12100 </ID>
@@ -8461,10 +8461,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>  0.329545140     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.383898765     </BIAS>
  <RMSE>  0.845391750     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12115 </ID>
@@ -8485,10 +8485,10 @@
  <NAME>x411</NAME>
  <NUM>         111 </NUM>
  <MEAN>  0.462245464     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.796967864     </BIAS>
  <RMSE>  0.841459155     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       12125 </ID>
@@ -8509,10 +8509,10 @@
  <NAME>x411</NAME>
  <NUM>         127 </NUM>
  <MEAN>  0.266353607     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.788820863     </BIAS>
  <RMSE>  0.812667131     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       12135 </ID>
@@ -8533,10 +8533,10 @@
  <NAME>x411</NAME>
  <NUM>         111 </NUM>
  <MEAN>  0.379507393     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.664102554     </BIAS>
  <RMSE>  0.811272264     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12185 </ID>
@@ -8557,10 +8557,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.184453607     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.554977775     </BIAS>
  <RMSE>  0.618374705     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12200 </ID>
@@ -8581,10 +8581,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.358021289     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.798775136     </BIAS>
  <RMSE>  0.404316515     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       12215 </ID>
@@ -8605,10 +8605,10 @@
  <NAME>x411</NAME>
  <NUM>         105 </NUM>
  <MEAN>  0.410827249     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.709575772     </BIAS>
  <RMSE>  0.661314189     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       12272 </ID>
@@ -8629,10 +8629,10 @@
  <NAME>x411</NAME>
  <NUM>         132 </NUM>
  <MEAN>  0.329613328     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.567480981     </BIAS>
  <RMSE>  0.443248957     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12285 </ID>
@@ -8653,10 +8653,10 @@
  <NAME>x411</NAME>
  <NUM>         108 </NUM>
  <MEAN>  0.318571031     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.528007925     </BIAS>
  <RMSE>  0.787110329     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       12345 </ID>
@@ -8677,10 +8677,10 @@
  <NAME>x411</NAME>
  <NUM>         102 </NUM>
  <MEAN>  0.341032177     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.546970248     </BIAS>
  <RMSE>  0.807992637     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       12360 </ID>
@@ -8701,10 +8701,10 @@
  <NAME>x411</NAME>
  <NUM>          93 </NUM>
  <MEAN>  0.301711082     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.771821320     </BIAS>
  <RMSE>  0.544973433     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12385 </ID>
@@ -8725,10 +8725,10 @@
  <NAME>x411</NAME>
  <NUM>         104 </NUM>
  <MEAN>  0.418842673     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.843001544     </BIAS>
  <RMSE>  0.824916780     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       12497 </ID>
@@ -8749,10 +8749,10 @@
  <NAME>x411</NAME>
  <NUM>         129 </NUM>
  <MEAN>  0.306833118     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.932300925     </BIAS>
  <RMSE>  0.494257659     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12210 </ID>
@@ -8773,10 +8773,10 @@
  <NAME>x411</NAME>
  <NUM>         117 </NUM>
  <MEAN>  0.278285503     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.406549513     </BIAS>
  <RMSE>  0.756021082     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       12230 </ID>
@@ -8797,10 +8797,10 @@
  <NAME>x411</NAME>
  <NUM>          99 </NUM>
  <MEAN>  0.325271755     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.536589980     </BIAS>
  <RMSE>  0.737150252     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       12310 </ID>
@@ -8821,10 +8821,10 @@
  <NAME>x411</NAME>
  <NUM>          99 </NUM>
  <MEAN>  0.460411102     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.879848778     </BIAS>
  <RMSE>  0.815036356     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       12399 </ID>
@@ -8845,10 +8845,10 @@
  <NAME>x411</NAME>
  <NUM>          85 </NUM>
  <MEAN>  0.197739229     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.675972521     </BIAS>
  <RMSE>  0.416703224     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       12418 </ID>
@@ -8869,10 +8869,10 @@
  <NAME>x411</NAME>
  <NUM>         107 </NUM>
  <MEAN>  0.175454959     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.846795261     </BIAS>
  <RMSE>  0.236843735     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       12488 </ID>
@@ -8893,10 +8893,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.33055782     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>   2.32120585     </BIAS>
  <RMSE>  0.774556994     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        1141 </ID>
@@ -8917,10 +8917,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>   1.05506539     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>   1.20993912     </BIAS>
  <RMSE>  0.767682135     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1026 </ID>
@@ -8941,10 +8941,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.474563330     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.754812598     </BIAS>
  <RMSE>  0.810810268     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       26501 </ID>
@@ -8965,10 +8965,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.422616214     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.513771415     </BIAS>
  <RMSE>  0.878861070     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       26504 </ID>
@@ -8989,10 +8989,10 @@
  <NAME>x411</NAME>
  <NUM>         399 </NUM>
  <MEAN>  0.653586030     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.665492237     </BIAS>
  <RMSE>  0.889006972     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26515 </ID>
@@ -9013,10 +9013,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.737588227     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.980957508     </BIAS>
  <RMSE>  0.860946774     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26517 </ID>
@@ -9037,10 +9037,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.403054774     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.468599021     </BIAS>
  <RMSE>  0.890302837     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       26528 </ID>
@@ -9061,10 +9061,10 @@
  <NAME>x411</NAME>
  <NUM>         377 </NUM>
  <MEAN>  0.474905640     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.608709097     </BIAS>
  <RMSE>  0.775376081     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       26529 </ID>
@@ -9085,10 +9085,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.658995211     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.694372535     </BIAS>
  <RMSE>  0.848124325     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       26539 </ID>
@@ -9109,10 +9109,10 @@
  <NAME>x411</NAME>
  <NUM>         369 </NUM>
  <MEAN>  0.620765924     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.824203551     </BIAS>
  <RMSE>  0.731513143     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       26547 </ID>
@@ -9133,10 +9133,10 @@
  <NAME>x411</NAME>
  <NUM>         438 </NUM>
  <MEAN>  0.570007384     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.920291007     </BIAS>
  <RMSE>  0.764560997     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       26600 </ID>
@@ -9157,10 +9157,10 @@
  <NAME>x411</NAME>
  <NUM>         224 </NUM>
  <MEAN>  0.342712998     </MEAN>
- <STDV>   16153.6406     </STDV>
+ <STDV>   2436.41016     </STDV>
  <BIAS>  0.908413947     </BIAS>
  <RMSE>  0.548173070     </RMSE>
- <CORR>   37994.8750     </CORR>
+ <CORR>   6.71918150E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26603 </ID>
@@ -9181,10 +9181,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.570468962     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.643340111     </BIAS>
  <RMSE>  0.884050190     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       26615 </ID>
@@ -9205,10 +9205,10 @@
  <NAME>x411</NAME>
  <NUM>         365 </NUM>
  <MEAN>  0.438937813     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.466495514     </BIAS>
  <RMSE>  0.902278423     </RMSE>
- <CORR>   4.77090249E-17 </CORR>
+ <CORR>   5641.35938     </CORR>
  </EXP>
  <EXP>
  <ID>       26620 </ID>
@@ -9229,10 +9229,10 @@
  <NAME>x411</NAME>
  <NUM>         373 </NUM>
  <MEAN>  0.488660336     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.611252308     </BIAS>
  <RMSE>  0.856414378     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26621 </ID>
@@ -9253,10 +9253,10 @@
  <NAME>x411</NAME>
  <NUM>         399 </NUM>
  <MEAN>  0.554119885     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>  0.606459439     </BIAS>
  <RMSE>  0.830840528     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       26634 </ID>
@@ -9277,10 +9277,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.735024095     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>  0.761134684     </BIAS>
  <RMSE>  0.843998492     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>       26636 </ID>
@@ -9301,10 +9301,10 @@
  <NAME>x411</NAME>
  <NUM>         396 </NUM>
  <MEAN>  0.486512452     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.727432847     </BIAS>
  <RMSE>  0.608131528     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       26713 </ID>
@@ -9325,10 +9325,10 @@
  <NAME>x411</NAME>
  <NUM>         454 </NUM>
  <MEAN>  0.403414130     </MEAN>
- <STDV>   16154.2188     </STDV>
+ <STDV>   5674.25000     </STDV>
  <BIAS>  0.698834062     </BIAS>
  <RMSE>  0.572977543     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       26714 </ID>
@@ -9349,10 +9349,10 @@
  <NAME>x411</NAME>
  <NUM>         371 </NUM>
  <MEAN>  0.535232425     </MEAN>
- <STDV>   5.00501710E-17 </STDV>
+ <STDV>   5639.26562     </STDV>
  <BIAS>  0.720411301     </BIAS>
  <RMSE>  0.740732551     </RMSE>
- <CORR>   16153.6406     </CORR>
+ <CORR>   2436.41016     </CORR>
  </EXP>
  <EXP>
  <ID>       26728 </ID>
@@ -9373,10 +9373,10 @@
  <NAME>x411</NAME>
  <NUM>         448 </NUM>
  <MEAN>  0.497844845     </MEAN>
- <STDV>   5.00790231E-17 </STDV>
+ <STDV>   4.71227661E-31 </STDV>
  <BIAS>  0.662546694     </BIAS>
  <RMSE>  0.696104586     </RMSE>
- <CORR>   5.00791289E-17 </CORR>
+ <CORR>   4.71509780E-31 </CORR>
  </EXP>
  <EXP>
  <ID>       26729 </ID>
@@ -9397,10 +9397,10 @@
  <NAME>x411</NAME>
  <NUM>         211 </NUM>
  <MEAN>  0.542305112     </MEAN>
- <STDV>   4.77090249E-17 </STDV>
+ <STDV>   5641.35938     </STDV>
  <BIAS>   1.18115699     </BIAS>
  <RMSE>  0.563022912     </RMSE>
- <CORR>   5.00598060E-17 </CORR>
+ <CORR>   2436.55469     </CORR>
  </EXP>
  <EXP>
  <ID>       26737 </ID>
@@ -9421,10 +9421,10 @@
  <NAME>x411</NAME>
  <NUM>         153 </NUM>
  <MEAN>  0.122180738     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>  0.280167907     </BIAS>
  <RMSE>  0.533217132     </RMSE>
- <CORR>   37995.0000     </CORR>
+ <CORR>   7.08475562E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       33088 </ID>
@@ -9445,10 +9445,10 @@
  <NAME>x411</NAME>
  <NUM>         142 </NUM>
  <MEAN>   7.99063891E-02 </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.771494865     </BIAS>
  <RMSE>  0.332782477     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       33261 </ID>
@@ -9469,10 +9469,10 @@
  <NAME>x411</NAME>
  <NUM>         129 </NUM>
  <MEAN>   1.35535264     </MEAN>
- <STDV>   37995.0000     </STDV>
+ <STDV>   7.08475562E-18 </STDV>
  <BIAS>   2.24435973     </BIAS>
  <RMSE>  0.755176067     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1242 </ID>
@@ -9493,10 +9493,10 @@
  <NAME>x411</NAME>
  <NUM>         135 </NUM>
  <MEAN>  0.500390232     </MEAN>
- <STDV>   5.00557826E-17 </STDV>
+ <STDV>   7.08615852E-18 </STDV>
  <BIAS>  0.932170451     </BIAS>
  <RMSE>  0.487830043     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1001 </ID>
@@ -9517,10 +9517,10 @@
  <NAME>x411</NAME>
  <NUM>          31 </NUM>
  <MEAN>   2.59598589     </MEAN>
- <STDV>   5.00598060E-17 </STDV>
+ <STDV>   2436.55469     </STDV>
  <BIAS>   1.44780445     </BIAS>
  <RMSE>  0.840606987     </RMSE>
- <CORR>   5.00790231E-17 </CORR>
+ <CORR>   4.71227661E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        6051 </ID>
@@ -9541,10 +9541,10 @@
  <NAME>x411</NAME>
  <NUM>         143 </NUM>
  <MEAN>  0.141720816     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>  0.478184611     </BIAS>
  <RMSE>  0.672872841     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>       33135 </ID>
@@ -9565,10 +9565,10 @@
  <NAME>x411</NAME>
  <NUM>          23 </NUM>
  <MEAN>   1.18114793     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   1.60738003     </BIAS>
  <RMSE> -0.396505177     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>       10270 </ID>
@@ -9589,10 +9589,10 @@
  <NAME>x411</NAME>
  <NUM>           9 </NUM>
  <MEAN>  0.744958997     </MEAN>
- <STDV>   5.00576355E-17 </STDV>
+ <STDV>   2.63437629E-02 </STDV>
  <BIAS>   1.25444877     </BIAS>
  <RMSE> -0.123714402     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1317 </ID>
@@ -9613,10 +9613,10 @@
  <NAME>x411</NAME>
  <NUM>         121 </NUM>
  <MEAN>  0.352711201     </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>  0.482499480     </BIAS>
  <RMSE>  0.853820384     </RMSE>
- <CORR>   37978.1250     </CORR>
+ <CORR>   5673.92969     </CORR>
  </EXP>
  <EXP>
  <ID>       10361 </ID>
@@ -9637,10 +9637,10 @@
  <NAME>x411</NAME>
  <NUM>          15 </NUM>
  <MEAN>   2.65413318E-02 </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   4.33989353E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   16154.2188     </CORR>
+ <CORR>   5674.25000     </CORR>
  </EXP>
  <EXP>
  <ID>        1230 </ID>
@@ -9661,10 +9661,10 @@
  <NAME>x411</NAME>
  <NUM>         100 </NUM>
  <MEAN>   2.49619149E-02 </MEAN>
- <STDV>   37994.8750     </STDV>
+ <STDV>   6.71918150E-18 </STDV>
  <BIAS>   4.74117808E-02 </BIAS>
  <RMSE>  0.934868336     </RMSE>
- <CORR>   5.00557826E-17 </CORR>
+ <CORR>   7.08615852E-18 </CORR>
  </EXP>
  <EXP>
  <ID>        1468 </ID>
@@ -9685,10 +9685,10 @@
  <NAME>x411</NAME>
  <NUM>         100 </NUM>
  <MEAN>   3.29174900     </MEAN>
- <STDV>   5.00791289E-17 </STDV>
+ <STDV>   4.71509780E-31 </STDV>
  <BIAS>   3.06454778     </BIAS>
  <RMSE>  0.938095689     </RMSE>
- <CORR>   5.00501710E-17 </CORR>
+ <CORR>   5639.26562     </CORR>
  </EXP>
  <EXP>
  <ID>        1314 </ID>
